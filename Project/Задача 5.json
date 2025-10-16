@@ -1,0 +1,56 @@
+{
+    "lengths": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+    ],
+    "areas": [
+        1.0,
+        2.0,
+        2.0,
+        1.0
+    ],
+    "e_modulus": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "allowable_stress": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "left_support": [
+        true,
+        false,
+        false,
+        false
+    ],
+    "right_support": [
+        false,
+        false,
+        false,
+        true
+    ],
+    "point_loads": [
+        0.0,
+        1.0,
+        0.0,
+        0.0
+    ],
+    "distributed_loads": [
+        1.0,
+        0.0,
+        0.0,
+        -1.0
+    ],
+    "point_load_directions": [
+        "right",
+        "right",
+        "right",
+        "right"
+    ]
+}

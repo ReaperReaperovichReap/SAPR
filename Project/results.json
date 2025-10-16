@@ -1,0 +1,44 @@
+{
+    "rod_results": [
+        {
+            "rod_index": 1,
+            "length": 1.0,
+            "start_displacement": 0.0,
+            "end_displacement": 0.75,
+            "axial_force_start": 1.25,
+            "axial_force_end": 0.25,
+            "normal_stress_start": 1.25,
+            "normal_stress_end": 0.25
+        },
+        {
+            "rod_index": 2,
+            "length": 2.0,
+            "start_displacement": 0.75,
+            "end_displacement": 1.0,
+            "axial_force_start": 0.25,
+            "axial_force_end": 0.25,
+            "normal_stress_start": 0.125,
+            "normal_stress_end": 0.125
+        },
+        {
+            "rod_index": 3,
+            "length": 2.0,
+            "start_displacement": 1.0,
+            "end_displacement": 0.24999999999999992,
+            "axial_force_start": -0.7500000000000001,
+            "axial_force_end": -0.7500000000000001,
+            "normal_stress_start": -0.37500000000000006,
+            "normal_stress_end": -0.37500000000000006
+        },
+        {
+            "rod_index": 4,
+            "length": 1.0,
+            "start_displacement": 0.24999999999999992,
+            "end_displacement": 0.0,
+            "axial_force_start": -0.7499999999999999,
+            "axial_force_end": 0.2500000000000001,
+            "normal_stress_start": -0.7499999999999999,
+            "normal_stress_end": 0.2500000000000001
+        }
+    ]
+}
